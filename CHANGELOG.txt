@@ -1,2 +1,0 @@
-29-07-24
-Agregamos informacion al README.md y experimentamos un poco con el diseño del mismo.
